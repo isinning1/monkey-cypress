@@ -74,4 +74,4 @@ Las contribuciones al código son bienvenidas. Si encuentras un error o consider
 ## Licencia
 Este proyecto se puedes usar, copiar y modificar el código libremente.
 
-##Ver codigo en Rama Master 
+## Ver código en Rama Master 
